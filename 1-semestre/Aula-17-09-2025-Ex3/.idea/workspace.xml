@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63e6ba3c-100d-4ce9-a3ef-253325d325ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Aula-13-08-2025-Ex2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-17-09-2025-Ex1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-17-09-2025-Ex1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-17-09-2025-Ex1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-17-09-2025-Ex1/Aula-17-09-2025-Ex1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-17-09-2025-Ex1/src/NumerosCTR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-17-09-2025-Ex1/src/NumerosDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-17-09-2025-Ex1/src/NumerosDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-17-09-2025-Ex1/src/NumerosVIEW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-17-09-2025-Ex2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-17-09-2025-Ex2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-17-09-2025-Ex2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-17-09-2025-Ex2/Aula-17-09-2025-Ex2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-17-09-2025-Ex2/src/PesoCTR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-17-09-2025-Ex2/src/PesoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-17-09-2025-Ex2/src/PesoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-17-09-2025-Ex2/src/PesoVIEW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PedidosDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PedidosDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sabado-Letivo-13-09-2025/Sabado-Letivo-13-09-2025.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sabado-Letivo-13-09-2025/src/Exercicio/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula-05-08-2025" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula-05-08-2025" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="32pLX2p11sJWFdhmhZsxfRLkDzA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/home/jowse/Projetos/POO1/Aula-17-09-2025-Ex3/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63e6ba3c-100d-4ce9-a3ef-253325d325ef" name="Changes" comment="" />
+      <created>1755902263495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755902263495</updated>
+    </task>
+    <servers />
+  </component>
+</project>

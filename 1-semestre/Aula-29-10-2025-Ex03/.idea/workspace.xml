@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef29571e-8dab-4280-a19b-024aeedebdc8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Aula-08-10-2015-Ex02/src/controller/MediaDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-08-10-2015-Ex02/src/model/MediaDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-08-10-2015-Ex02/src/view/MediaVIEW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-08-10-2025-Ex01/src/CarroCTR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-08-10-2025-Ex01/src/MotoCTR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-08-10-2025-Ex01/src/MotoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-08-10-2025-Ex01/src/MotoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-08-10-2025-Ex01/src/VeiculoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-08-10-2025-Ex01/src/VeiculoVIEW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-29-10-2025-Ex02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-29-10-2025-Ex02/src/CasaDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-29-10-2025-Ex02/src/CasaDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-29-10-2025-Ex02/src/IimovelDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-29-10-2025-Ex02/src/ImovelDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumeroDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumeroDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumerosCTR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumerosVIEW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-29-10-2025-Ex1/src/MotoristaCTR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-29-10-2025-Ex1/src/MotoristaDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-29-10-2025-Ex1/src/MotoristaDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula-29-10-2025-Ex1/src/MotoristaVIEW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula-05-08-2025" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula-05-08-2025" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="34k1IYFz8eH4Me6n4q2f8r0dLx5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/home/jowse/Projetos/POO1/Aula-29-10-2025-Ex03/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef29571e-8dab-4280-a19b-024aeedebdc8" name="Changes" comment="" />
+      <created>1755902263495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755902263495</updated>
+    </task>
+    <servers />
+  </component>
+</project>

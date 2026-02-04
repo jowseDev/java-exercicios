@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0616fd0-6ca2-410a-b796-1a61e906ff70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Desafios/ds3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Desafios/ds3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Desafios/ds3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Desafios/ds3/ds3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Desafios/ds3/src/controller/CalculadoraCTR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Desafios/ds3/src/model/CalculadoraDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Desafios/ds3/src/model/CalculadoraDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Desafios/ds3/src/view/CalculadoraVIEW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividade-12-11-2025-Ex3/src/model/NumerosDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Atividade-12-11-2025-Ex3/src/model/NumerosDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividade-12-11-2025-Ex3/src/model/NumerosDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Atividade-12-11-2025-Ex3/src/model/NumerosDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividade-12-11-2025-Ex3/src/view/NumerosVIEW.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Atividade-12-11-2025-Ex3/src/view/NumerosVIEW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula-05-08-2025" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula-05-08-2025" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="351zXAfEB5PR2saVmlrx2TDD9xz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ClienteVIEW.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/jowse/atividade/Projeto-SuperMercado",
+    "onboarding.tips.debug.path": "/home/jowse/Projetos/POO1/Estudos/Ex1/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0616fd0-6ca2-410a-b796-1a61e906ff70" name="Changes" comment="" />
+      <created>1755902263495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755902263495</updated>
+    </task>
+    <servers />
+  </component>
+</project>

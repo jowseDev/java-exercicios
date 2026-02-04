@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c252302-4331-41f5-9fd3-b55bd810c8c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Desafios/ds3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafios/ds3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafios/ds3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafios/ds3/ds3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafios/ds3/src/controller/CalculadoraCTR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafios/ds3/src/model/CalculadoraDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafios/ds3/src/model/CalculadoraDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafios/ds3/src/view/CalculadoraVIEW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade-12-11-2025-Ex3/src/model/NumerosDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Atividade-12-11-2025-Ex3/src/model/NumerosDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade-12-11-2025-Ex3/src/model/NumerosDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Atividade-12-11-2025-Ex3/src/model/NumerosDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade-12-11-2025-Ex3/src/view/NumerosVIEW.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Atividade-12-11-2025-Ex3/src/view/NumerosVIEW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula-05-08-2025" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula-05-08-2025" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="35NH1PMACyXS3d1O4NU96OX3ts0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.NumeroVIEW.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/jowse/Projetos/POO1/Aula-12-11-2025-Ex1/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c252302-4331-41f5-9fd3-b55bd810c8c4" name="Changes" comment="" />
+      <created>1755902263495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755902263495</updated>
+    </task>
+    <servers />
+  </component>
+</project>
