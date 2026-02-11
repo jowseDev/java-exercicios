@@ -65,6 +65,12 @@ public class FuncionarioVIEW extends javax.swing.JFrame {
             }
         });
 
+        txtLogadouro.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                txtLogadouroActionPerformed(evt);
+            }
+        });
+
         txtCidade.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 txtCidadeActionPerformed(evt);
@@ -315,6 +321,10 @@ public class FuncionarioVIEW extends javax.swing.JFrame {
         txtRg.setText(" ");
 
     }//GEN-LAST:event_btnLimparActionPerformed
+
+    private void txtLogadouroActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtLogadouroActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_txtLogadouroActionPerformed
 
     /**
      * @param args the command line arguments
